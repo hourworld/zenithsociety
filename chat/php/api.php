@@ -7,7 +7,7 @@ if (isset($_GET["password"]) && $_GET["password"] == "Ç_M4tr1x123_Ç") {
 
 ini_set("display_errors", 0);
 
-$API_KEY = "ENTER THE OPENAI API KEY HERE"; //Sign up at OpenAI website and get your API key. Enter it here. 
+$API_KEY = "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"; //Sign up at OpenAI website and get your API key. Enter it here. 
 
 // Read input data
 $model = $_POST["model"];
