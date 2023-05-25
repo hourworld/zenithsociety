@@ -21,8 +21,8 @@
     },
     "OutC": [
         {
-            "name": "ENTER NAME OF BOT", // Enter the name of your chatbot here
-            "image": "img/bot/IMAGENAME.jpg", // Enter the name of the image file of your bot here
+            "name": "ZENITH BOT", // Enter the name of your chatbot here
+            "image": "img/bot/thezenith.png", // Enter the name of the image file of your bot here
             "welcome_message": "THIS IS TEXT THAT THE BOT WRITES TO WELCOME NEW USERS", //Enter text that you want the bot to welcome the user with and tell them its function
             "expert": "WHAT DOES THE BOT DO", // Enter the text you want below the Bot name in the user screen - eg, Psychologist, Astronomer, Assistant, etc.
             "training": "WRITE THE TRAINING SCRIPT FOR BOT HERE", // Refer to our Prompt Guide page on the website or any bot tutorial page on our website.
